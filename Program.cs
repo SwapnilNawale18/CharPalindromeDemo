@@ -24,8 +24,6 @@ namespace CharPalindromeDemo
     {
         static void Main(string[] args)
         {
-            
-            int i, j, n;
             char[] name = new char[10];
             Console.Write("Enter any string: ");
             name = Console.ReadLine().ToCharArray();
